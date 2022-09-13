@@ -42,7 +42,7 @@
 
 <br/>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
 [![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
 [![Gmail Badge](https://img.shields.io/badge/-v.sagawa@aluno.ifsp.edu.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.sagawa@aluno.ifsp.edu.br)](mailto:v.sagawa@aluno.ifsp.edu.br)
