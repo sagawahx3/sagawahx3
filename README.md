@@ -3,11 +3,11 @@
 
 <h3>&nbsp;About me: </h3>
 
-- 🎓 &nbsp; Studying Analysis and System Development on <a href="https://www.ifsp.edu.br/">SUA FACULDADE</a>.
+- 🎓 &nbsp; Studying Analysis and System Development on <a href="https://www.ifsp.edu.br/">IFSP</a>.
 - 💼 &nbsp; Currently working on personal projects to earn experience.
 - 🌱 &nbsp; Learning Python, Django and React.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;My skills: </h3>
 
 **Applications and Languages**
 
