@@ -46,4 +46,4 @@
 
 [![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
 [![Gmail Badge](https://img.shields.io/badge/-v.sagawa@aluno.ifsp.edu.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.sagawa@aluno.ifsp.edu.br)](mailto:v.sagawa@aluno.ifsp.edu.br)
-[![GitHub Victor Sagawa]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/sagawahx3))
+[![GitHub Victor Sagawa]( https://img.shields.io/github/followers/sagawahx3?label=follow&style=social)]([https://github.com/sagawahx3](https://github.com/sagawahx3))
