@@ -35,9 +35,10 @@
 **IDEs**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm-ide&logoColor=2C2255)
-  ![Notepad++](https://img.shields.io/badge/-Notepad++-333333?style=flat&logo=Notepad%2B%2B&&logoColor=2C2255)
+  ![Notepad++](https://img.shields.io/badge/-Notepad++-333333?style=flat&logo=Notepad%2B%2B)
 
 <br/>
 
