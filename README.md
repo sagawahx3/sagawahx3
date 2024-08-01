@@ -3,7 +3,7 @@
 
 <h3>&nbsp;About me: </h3>
 
-- 🎓 &nbsp; Graduated at System Analysis and Development on <a href="https://www.ifsp.edu.br/">IFSP</a>.
+- 🎓 &nbsp; Graduated on <a href="https://www.ifsp.edu.br/">IFSP</a>.
 - 🌱 &nbsp; Learning Kubernetes.
 
 <h3> :rocket: &nbsp;My skills: </h3>
